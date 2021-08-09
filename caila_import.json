@@ -1,0 +1,17 @@
+{
+  "project" : {
+    "id" : "proverka_repozitoriy-17808-kEH",
+    "name" : "proverka_repozitoriy-17808-kEH",
+    "folder" : "/"
+  },
+  "settings" : {
+    "language" : "ru",
+    "spellingCorrection" : false,
+    "classificationAlgorithm" : "sts",
+    "timezone" : "UTC",
+    "shared" : false
+  },
+  "intents" : [ ],
+  "entities" : [ ],
+  "enabledSystemEntities" : [ "duckling.number", "duckling.time", "duckling.duration", "duckling.phone-number", "duckling.email", "duckling.url" ]
+}
